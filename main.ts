@@ -1,4 +1,3 @@
-PCAmotor.StepperDegree(PCAmotor.Steppers.STPM1, 90)
-PCAmotor.StepperDegree(PCAmotor.Steppers.STPM2, 90)
-basic.pause(5000)
-PCAmotor.StpCarMove(10, 48)
+StepperMotorPlus.setSpeed(0)
+StepperMotorPlus.rotateDegrees(StepperMotorPlus.Steppers.STP1, 90)
+StepperMotorPlus.rotateDegrees(StepperMotorPlus.Steppers.STP2, -90)
