@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-bessie": "github:mykhailo-odynets/pxt-bessie#12acdb46c4517393e2f9c8074708a0efa98d19b0",
+        "pxt-bessie": "github:mykhailo-odynets/pxt-bessie#9088da18a80449031c5b9ba94667e8198a3e26a7",
         "pxt-magicbit-pca9685": "github:tomaskazda/pxt-magicbit-pca9685#1e097c914b2c7ed1f4071d7b6288ef64812030e2"
     },
     "files": [

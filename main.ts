@@ -1,3 +1,2 @@
-StepperMotorPlus.setSpeed(0)
-StepperMotorPlus.rotateDegrees(StepperMotorPlus.Steppers.STP1, 90)
-StepperMotorPlus.rotateDegrees(StepperMotorPlus.Steppers.STP2, -90)
+StepperCar.CarMove(10)
+StepperCar.CarRotate(90)
